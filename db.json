@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "phamhaidang190123@gmail.com",
+      "password": "$2a$10$1AaQd2X/q8Ywcq4eLY8AMOuydR/9H/qUy.DqwdvV50JwqAMKsE34a",
+      "name": "dang",
+      "id": 1
+    },
+    {
+      "email": "dang1901@gmail.com",
+      "password": "$2a$10$luuTNfJbCXi0jxeQuFr.IehxmOp/qoTBGKzMngNNhfAUKCvDyb3vC",
+      "name": "chuot gaming",
+      "id": 2
+    },
+    {
+      "email": "duy123@gmail.com",
+      "password": "$2a$10$fwhoMwDOURLfRBGRFEhlQO1KPVjhY9Kv5BckqLnxsVKmbg.Q5V3Pq",
+      "name": "chuot gaming",
+      "id": 3
+    },
+    {
+      "email": "thu123@gmail.com",
+      "password": "$2a$10$wM4HJDrNRDehiWqndGumw.ggdWGG916MwaB2sekN6jn1kQseOmVAu",
+      "name": "thu",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Smartphone Stand update",
+      "image": "https://example.com/images/smartphone-stand.jpg",
+      "price": 19.99,
+      "description": "Adjustable smartphone stand, perfect for hands-free video calls and watching movies.",
+      "id": 2
+    },
+    {
+      "name": "Bluetooth Speaker update",
+      "image": "https://example.com/images/bluetooth-speaker.jpg",
+      "price": 45,
+      "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Fitness Tracker",
+      "image": "https://example.com/images/fitness-tracker.jpg",
+      "price": 59.99,
+      "description": "Track your daily activity, heart rate, and sleep patterns with this advanced fitness tracker."
+    },
+    {
+      "id": 5,
+      "name": "Laptop Backpack",
+      "image": "https://example.com/images/laptop-backpack.jpg",
+      "price": 79.99,
+      "description": "Durable and stylish laptop backpack with multiple compartments for easy organization."
+    },
+    {
+      "name": "Giày Nike Air Jordan 4 Retro ‘Bred Reimagined’ FV5029-006",
+      "price": "12",
+      "image": "asdasdas",
+      "description": "asdsad",
+      "id": 6
+    },
+    {
+      "name": "chuot gaming",
+      "price": "12333",
+      "image": "https://example.com/images/war-and-peace.jpg",
+      "description": "cxbatshaa",
+      "id": 7
+    }
+  ]
+}
